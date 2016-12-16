@@ -1,0 +1,15 @@
+.carousel-caption h3{
+	color: red;
+	padding-bottom: 6cm;
+}
+ .catalogue{
+    float:left;
+    padding-right: 2cm;
+ }
+ .carousel{
+    margin-top: 0cm;
+ }
+ .item{
+ 
+ 	height:550px;
+ }
